@@ -1,0 +1,3 @@
+[submodule "CLIP_FAISS_NNs"]
+	path = CLIP_FAISS_NNs
+	url = git@github.com:rusbridger/CLIP_FAISS_NNs.git
